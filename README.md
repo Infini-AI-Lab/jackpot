@@ -32,6 +32,5 @@ optimization for RL for LLMs.
 @article{liu2025jackpot,
   title={Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch Reinforcement Learning},
   author={Liu, Hongyi and Chen, Zhuoming and Zhou, Yang and Zheng, Haizhong and Chen, Beidi},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={2025}
 }
