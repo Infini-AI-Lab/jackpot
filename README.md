@@ -7,7 +7,7 @@
 *Carnegie Mellon University*  
 (\* = Equal Contributions, alphabetically ordering based on lastnames) 
 
-[📄 **Download Paper (PDF)**](https://github.com/Infini-AI-Lab/jackpot/jpt.pdf) 
+[📄 **Download Paper (PDF)**](https://github.com/Infini-AI-Lab/jackpot/blob/main/jpt.pdf) 
 
 ---
 
