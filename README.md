@@ -34,7 +34,7 @@ If you think our work is helpful, please consider citing us using the following 
 @misc{jackpot2025github,
   title        = {Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch RL},
   author       = {Liu, Hongyi and Chen, Zhuoming and Zhou, Yang and Zheng, Haizhong and Chen, Beidi},
-  howpublished = {\url{https://github.com/<your-org>/<your-repo>}},
+  howpublished = {\url{https://github.com/Infini-AI-Lab/jackpot.git}},
   note         = {Official GitHub repository},
   year         = {2025}
 }
