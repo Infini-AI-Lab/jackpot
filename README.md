@@ -25,3 +25,13 @@ compared to importance-sampling baselines, achieving performance comparable to o
 training Qwen3-8B-Base for up to 300 update steps. Taken together, our results show that OBRS-based
 alignment brings us a step closer to practical and effective decoupling of rollout generation from policy
 optimization for RL for LLMs.
+
+## **BibTeX**
+
+```bibtex
+@article{liu2025jackpot,
+  title={Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch Reinforcement Learning},
+  author={Liu, Hongyi and Chen, Zhuoming and Zhou, Yang and Zheng, Haizhong and Chen, Beidi},
+  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  year={2025}
+}
