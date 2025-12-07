@@ -26,6 +26,10 @@ training Qwen3-8B-Base for up to 300 update steps. Taken together, our results s
 alignment brings us a step closer to practical and effective decoupling of rollout generation from policy
 optimization for RL for LLMs.
 
+## **Bibliography** 
+
+If you think our work is helpful, please consider citing us using the following BibTeX. 
+
 ```bibtex
 @misc{jackpot2025github,
   title        = {Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch RL},
