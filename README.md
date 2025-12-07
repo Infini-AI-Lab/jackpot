@@ -5,7 +5,9 @@
 **Authors:**  
 **Zhuoming Chen\***, **Hongyi Liu\***, **Yang Zhou\***, Haizhong Zheng, Beidi Chen  
 *Carnegie Mellon University*  
-(\* = Equal Contributions, alphabetically ordering based on lastnames)
+(\* = Equal Contributions, alphabetically ordering based on lastnames) 
+
+[📄 **Download Paper (PDF)**](https://github.com/Infini-AI-Lab/jackpot/jpt.pdf) 
 
 ---
 
