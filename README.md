@@ -26,11 +26,11 @@ training Qwen3-8B-Base for up to 300 update steps. Taken together, our results s
 alignment brings us a step closer to practical and effective decoupling of rollout generation from policy
 optimization for RL for LLMs.
 
-## **BibTeX**
-
 ```bibtex
-@article{liu2025jackpot,
-  title={Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch Reinforcement Learning},
-  author={Liu, Hongyi and Chen, Zhuoming and Zhou, Yang and Zheng, Haizhong and Chen, Beidi},
-  year={2025}
+@misc{jackpot2025github,
+  title        = {Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch RL},
+  author       = {Liu, Hongyi and Chen, Zhuoming and Zhou, Yang and Zheng, Haizhong and Chen, Beidi},
+  howpublished = {\url{https://github.com/<your-org>/<your-repo>}},
+  note         = {Official GitHub repository},
+  year         = {2025}
 }
